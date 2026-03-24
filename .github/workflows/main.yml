@@ -80,7 +80,7 @@ jobs:
         echo " Iniciando bateria de testes..."
 
         node test.js
-        
+
     - name: 5. Mensagem de sucesso
 
       run: |

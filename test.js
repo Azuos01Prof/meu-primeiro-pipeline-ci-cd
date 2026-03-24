@@ -82,7 +82,7 @@ executarTeste('Saudacao com nome valido', () => {
 
     const resultado = saudacao('Joao');
 
-    assertEqual(resultado, 'Ola, Joao! Bem-vindo ao nosso sistema CI/CD!');
+    assertEqual(resultado, 'Ola!, Joao! Bem-vindo ao nosso sistema CI/CD!');
 
 });
 

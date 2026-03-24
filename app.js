@@ -21,7 +21,7 @@ function calcular(a, b, operacao) {
 
         case 'soma':
 
-            return a + b;
+            return a - b;
 
         case 'subtracao':
 
